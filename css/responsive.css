@@ -1,0 +1,104 @@
+@media (max-width:768px) {
+  .container {
+    width: 100%;
+}
+.stykymanu {
+    display: none;
+    
+}
+
+.stykymanutext {
+    margin-top: 20px;
+}
+.stykymanutext h2{
+  font-size: 25px;
+}
+.SERVICESsingbox {
+    float: none;
+    width: 93%;
+}
+.stkeyjs .logo1 img {
+    margin: 0px 13px;
+}
+.positonmanu.stkeyjs {
+    width: 100%;
+}
+.temsingalbox {
+    float: none;
+    width: 86%;
+}
+.temsingalbox p{
+  font-size: 10px;
+}
+.singalboxsarcal {
+    float: none;
+    width: 100%;
+}
+.skilheadrsection h4{
+  margin-left: 0px;
+  width: 100%;
+}
+.singalboxpic1 {
+  float: none;
+  width: 100%;
+}
+.singalboxpic3{
+  float: none;
+  width: 100%;
+}
+.portfuliyohedar h4 {
+  width: 100%;
+  margin-left: 0px;
+}
+.pipulesingalbox {
+    float: none;
+    width: 54%;
+    margin-left: 124px;
+}
+.contackinputbox input{
+  width: 122px;
+  margin-left: 8px;
+}
+.aboutyou textarea{
+  width: 201px;
+  margin-left: 0px;
+  height: 46px;
+}
+.footerstykumanu ul li {
+  font-size: 32px;
+}
+.singalboxpic1 h3 {
+  text-align: center;
+}
+.SERVICEStext h4 {
+    width: 100%;
+}
+.singalboxpic1 img {
+    width: 94%;
+}
+.singalboxpic3 img {
+    width: 94%;
+}
+.singalboxpic {
+    float: none;
+}
+.Contacthedar p {
+    font-size: 20px;
+}
+.footerstykumanu ul li{
+
+  float: none;
+  margin-left: 0px;
+}
+.pipulesingalbox {
+    float: none;
+    width: 48%;
+    margin-left: 83px;
+}
+
+}
+
+@media (max-width: 360px){
+
+
+}
